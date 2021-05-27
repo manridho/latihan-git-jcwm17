@@ -1,0 +1,8 @@
+GIT AND GITHUB
+<ol>
+<li>GIT INIT<li>
+<li>GIT REMOTE ADD ORIGIN "URL_REPOSITORY"<li>
+<li>GIT ADD .<li>
+<li>GIT COMMIT -m "YOUR_COMMENT"<li>
+<li>GIT PUSH ORIGIN "BRANCH_NAME"<li>
+</ol>
